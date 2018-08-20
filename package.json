@@ -1,6 +1,6 @@
 {
   "name": "material-category10",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Material Design version of D3's schemeCategory10",
   "main": "./dist/index.js",
   "repository": "git@github.com:dmackca/materialCategory10.git",
