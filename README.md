@@ -1,5 +1,11 @@
 # materialCategory10
-Material Design version of D3's schemeCategory10.
+Material Design version of D3's schemeCategory10. For use in D3 chromatic ordinal scales, or wherever Material colors are appreciated.
+
+`materialCategory10`:
+![materialCategory10](https://raw.githubusercontent.com/dmackca/materialCategory10/master/img/materialCategory10.png)
+
+`d3.schemeCategory10`
+![schemeCategory10](https://raw.githubusercontent.com/dmackca/materialCategory10/master/img/d3-schemeCategory10.png)
 
 ## Usage
 
